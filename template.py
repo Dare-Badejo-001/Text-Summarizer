@@ -27,6 +27,17 @@ list_of_files = [
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
+    "research/01_data_ingestion.ipynb",
+    "research/02_data_validation.ipynb",
+    "research/03_data_transformation.ipynb",
+    "research/04_model_trainer.ipynb",
+    "research/05_model_evaluation.ipynb",
+    "research/text_summarization.ipynb",
+    "artifacts/data_validation/empty.txt",
+    "artifacts/data_ingestion/empty.txt",
+    "artifacts/data_transformation/empty.txt",
+    "artifacts/model_trainer/empty.txt",
+
 ]
 
 for filepath in list_of_files:
